@@ -3,6 +3,9 @@
 Smart config server aims at exposing any application configuration as simple key/value part. This server is built using:
 1. Spring Cloud
 2. MongoDB
+3. Spring Config Server
+
+This operationalization is very simple as it's Spring Boot application, ease to dokerize & rolling it K8s, EKS ....
 
 ## Usecases
 1. storing configuration of an application
