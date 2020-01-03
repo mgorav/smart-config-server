@@ -10,6 +10,7 @@ This operationalization is very simple as it's Spring Boot application, ease to 
 ## Usecases
 1. storing configuration of an application
 2. storing data quality rules (in python,scala,groovy ...) for data pipline (spark)
+NOTE: Now creating/testing DQ in Jupyter Lab & storing them for reuse using Smart Config Server
 3. .....
 
 ## Pre-Requisite
