@@ -4,6 +4,10 @@ Smart config server aim as exposing any application configratio as key/value par
 1. Spring Cloud
 2. MongoDB
 
+This server can be great asset:
+1. storing configuration of an application
+2. storing data quality rules (in python,scala,groovy ...) for data pipline (spark)
+
 ## Pre-Requisite
 Run MondoDB docker container
 
