@@ -1,12 +1,13 @@
 # Smart Config Server
 
-Smart config server aims at exposing any application configratio as key/value part. This server is built using:
+Smart config server aims at exposing any application configuration as simple key/value part. This server is built using:
 1. Spring Cloud
 2. MongoDB
 
-This server can be great asset:
+## Usecases
 1. storing configuration of an application
 2. storing data quality rules (in python,scala,groovy ...) for data pipline (spark)
+3. .....
 
 ## Pre-Requisite
 Run MondoDB docker container
