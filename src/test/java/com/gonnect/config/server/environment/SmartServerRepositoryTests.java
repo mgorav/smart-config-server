@@ -14,14 +14,14 @@
  * limitations under the License.
  */
 
-package com.gonnect.config.server.mongodb.environment;
+package com.gonnect.config.server.environment;
 
 import static org.junit.Assert.assertEquals;
 
 import java.util.HashMap;
 import java.util.Map;
 
-import com.gonnect.config.server.mongodb.AutoConfigureSmartConfigServer;
+import com.gonnect.config.server.AutoConfigureSmartConfigServer;
 import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;

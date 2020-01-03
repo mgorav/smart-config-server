@@ -2,7 +2,7 @@ package com.gonnect.sample.config.server;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
-import com.gonnect.config.server.mongodb.AutoConfigureSmartConfigServer;
+import com.gonnect.config.server.AutoConfigureSmartConfigServer;
 
 @SpringBootApplication
 @AutoConfigureSmartConfigServer

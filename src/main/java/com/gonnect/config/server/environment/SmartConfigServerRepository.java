@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.gonnect.config.server.mongodb.environment;
+package com.gonnect.config.server.environment;
 
 import java.util.ArrayList;
 import java.util.Arrays;

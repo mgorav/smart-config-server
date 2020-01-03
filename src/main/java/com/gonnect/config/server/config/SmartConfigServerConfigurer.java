@@ -13,9 +13,9 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package com.gonnect.config.server.mongodb.config;
+package com.gonnect.config.server.config;
 
-import com.gonnect.config.server.mongodb.environment.SmartConfigServerRepository;
+import com.gonnect.config.server.environment.SmartConfigServerRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.cloud.config.server.environment.EnvironmentRepository;
 import org.springframework.context.annotation.Bean;

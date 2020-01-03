@@ -13,7 +13,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package com.gonnect.config.server.mongodb;
+package com.gonnect.config.server;
 
 import java.lang.annotation.Documented;
 import java.lang.annotation.ElementType;
@@ -21,7 +21,7 @@ import java.lang.annotation.Retention;
 import java.lang.annotation.RetentionPolicy;
 import java.lang.annotation.Target;
 
-import com.gonnect.config.server.mongodb.config.SmartConfigServerConfigurer;
+import com.gonnect.config.server.config.SmartConfigServerConfigurer;
 import org.springframework.cloud.config.server.EnableConfigServer;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.context.annotation.Import;
