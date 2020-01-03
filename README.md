@@ -47,7 +47,7 @@ spring:
 
 Add documents to the `config-db` mongo database, like this:
 ```javascript
-use config-db;
+use gonnect-dataengineering-configuration-db;
 
 db.someapplication.insert({
   "label": "release-1.0",
