@@ -23,7 +23,7 @@ show dbs
 Add dependency in the project & Create a standard Spring Boot application, like this:
 ```java
 @SpringBootApplication
-@EnableMongoConfigServer
+@AutoConfigureSmartConfigServer
 public class SomeApplication {
 
     public static void main(String[] args) {
