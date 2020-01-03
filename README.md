@@ -1,6 +1,6 @@
 # Smart Config Server
 
-Smart config server aim as exposing any application configratio as key/value part. This server is built using:
+Smart config server aims at exposing any application configratio as key/value part. This server is built using:
 1. Spring Cloud
 2. MongoDB
 
