@@ -42,7 +42,7 @@ Configure the application's `spring.data.mongodb.*` properties in `application.y
 spring:
   data:
     mongodb:
-      uri: mongodb://0.0.0.0/config-db
+      uri: mongodb://0.0.0.0/gonnect-dataengineering-configuration-db
 ```
 
 Add documents to the `config-db` mongo database, like this:
