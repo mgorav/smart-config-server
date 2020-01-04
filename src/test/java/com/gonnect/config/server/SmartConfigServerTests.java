@@ -1,6 +1,6 @@
 package com.gonnect.config.server;
 
-import com.gonnect.config.server.environment.SmartConfigServerRepository;
+import com.gonnect.config.server.repository.SmartConfigServerRepository;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.springframework.beans.factory.annotation.Autowired;

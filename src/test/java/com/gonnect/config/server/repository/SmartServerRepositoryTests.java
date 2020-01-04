@@ -1,4 +1,4 @@
-package com.gonnect.config.server.environment;
+package com.gonnect.config.server.repository;
 
 import static org.junit.Assert.assertEquals;
 

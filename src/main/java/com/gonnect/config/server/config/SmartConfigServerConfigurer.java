@@ -1,6 +1,6 @@
 package com.gonnect.config.server.config;
 
-import com.gonnect.config.server.environment.SmartConfigServerRepository;
+import com.gonnect.config.server.repository.SmartConfigServerRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.cloud.config.server.environment.EnvironmentRepository;
 import org.springframework.context.annotation.Bean;

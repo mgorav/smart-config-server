@@ -1,4 +1,4 @@
-package com.gonnect.config.server.environment;
+package com.gonnect.config.server.repository;
 
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -76,7 +76,7 @@ public class SmartConfigServerRepository implements EnvironmentRepository {
 			}
 		}
 		catch (Exception e) {
-			throw new IllegalStateException("Cannot load environment", e);
+			throw new IllegalStateException("Cannot load repository", e);
 		}
 
 		return environment;
