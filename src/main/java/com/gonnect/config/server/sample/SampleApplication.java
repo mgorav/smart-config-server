@@ -1,4 +1,4 @@
-package com.gonnect.sample.config.server;
+package com.gonnect.config.server.sample;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
